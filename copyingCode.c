@@ -1,4 +1,4 @@
-/*------- AUTHOR : YASH VADALIA, 201001015 ---------*/
+/*------- AUTHOR : YASH VADALIA, ---------*/
 /*
 	   ASSUMPTIONS
    1) The a.out after compilation must be in the folder containing the files to be copied
