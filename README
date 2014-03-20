@@ -1,0 +1,5 @@
+COPY MULTIPLE FILES TO A LOCATION
+-------------------------------------
+
+Funcitonally similar to the linux 'cp' command. Uses Pthreads to make the
+copying process faster.
